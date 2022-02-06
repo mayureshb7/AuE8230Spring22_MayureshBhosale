@@ -1,0 +1,1 @@
+Hello there, I'm Mayuresh and I'm passionate about vehicle autonomy. Currently I'm oursuing Master's degree in Automotive Engineering at CUICAR with focus on Autonomy. This repository will contain information about turtlebot, gazebo, turtlesim and project of the coursework AuE8230 Autonomy Science and Systems
