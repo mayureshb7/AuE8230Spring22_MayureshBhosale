@@ -1,0 +1,8 @@
+prefix=/home/thedoctor/git_ws/AuE8230Spring22_MayureshBhosale/assignment2_ws/devel
+
+Name: python_package
+Description: Description of python_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

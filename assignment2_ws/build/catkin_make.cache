@@ -1,0 +1,2 @@
+python_package
+-DCATKIN_DEVEL_PREFIX=/home/thedoctor/git_ws/AuE8230Spring22_MayureshBhosale/assignment2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/thedoctor/git_ws/AuE8230Spring22_MayureshBhosale/assignment2_ws/install -G Unix Makefiles
